@@ -29,7 +29,7 @@ Lenguajes:
 - PHP
 - Javascript
 
-Librerías(Bibliotecas):
+Librerías - Bibliotecas:
 
 - Bootstrap
 - JQuery
